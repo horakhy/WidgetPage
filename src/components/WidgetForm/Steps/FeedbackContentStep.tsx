@@ -1,4 +1,4 @@
-import { ArrowLeft, Camera } from "phosphor-react";
+import { ArrowLeft } from "phosphor-react";
 import React, { FormEvent, useState } from "react";
 import { CloseButton } from "../../CloseButton";
 import ScreenshotButton from "../ScreenshotButton";
